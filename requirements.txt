@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pymongo
+motor
+scikit-learn
+gensim
+nltk
+pandas
+numpy
+joblib
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+apscheduler
+prometheus-client
+tensorflow==2.15.0
+scikit-surprise
